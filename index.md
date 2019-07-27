@@ -32,9 +32,8 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: Reduce Contamination
+    content: Presort your waste at home
     image: images/feature3.png
     actions:
     - label: Learn More
