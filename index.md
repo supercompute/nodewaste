@@ -20,6 +20,14 @@ sections:
     quis lorem malesuada luctus.
   bg: gray
   featureslist:
+  - title: ''
+    content: ''
+    image: ''
+    actions: []
+  - title: 'End to end verification '
+    content: 'Recycling you can verify '
+    image: ''
+    actions: []
   - title: Waste Diversion
     content: Diverting waste _from_ landfills
     image: images/feature1.png
