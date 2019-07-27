@@ -20,7 +20,7 @@ sections:
     - label: Order Now
       url: "/signup"
     highlight: false
-  - title: Professional
+  - title: Medium
     price: "$49/m"
     details: |-
       * Curabitur non nunc mollis
