@@ -70,9 +70,9 @@ sections:
   component: pricing_block.html
   bg: gray
   type: pricingblock
-  section_id: ''
-  title: ''
-  subtitle: ''
+  section_id: pricing
+  title: 'Diaper '
+  subtitle: 'absorbent hygiene products '
   pricingplans: []
 layout: pricing
 menu:
