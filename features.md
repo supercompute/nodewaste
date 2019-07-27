@@ -21,15 +21,6 @@ sections:
     url: "/signup"
   - label: View Demo
     url: "#"
-- type: ctablock
-  template: ctablock
-  section_id: call-to-action
-  title: This Is Call to Action Block!
-  component: cta_block.html
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
-    url: "#"
 layout: features
 menu:
   main:
