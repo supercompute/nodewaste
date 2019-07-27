@@ -1,15 +1,15 @@
 ---
-title: Pricing
+title: Campaigns
 sections:
 - type: pricingblock
   template: pricingblock
   section_id: pricing
-  title: Pricing Plans
+  title: Home Zero waste plan
   component: pricing_block.html
-  subtitle: You can have a separate pricing page or list everything on the home page.
+  subtitle: unlimited sort bags pickups and drops
   bg: gray
   pricingplans:
-  - title: Basic
+  - title: Small
     price: "$5/m"
     details: |-
       * Lorem ipsum dolor sit amet
@@ -19,6 +19,7 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
+    highlight: false
   - title: Professional
     price: "$49/m"
     details: |-
@@ -41,6 +42,7 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
+    highlight: false
 - type: faqblock
   template: faqblock
   section_id: faq
@@ -64,6 +66,14 @@ sections:
       dictum at efficitur sit amet, luctus in ipsum. Nunc pellentesque mi vel dui
       vulputate, a lobortis lacus venenatis. Phasellus pellentesque dolor id feugiat
       faucibus. Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+- template: pricingblock
+  component: pricing_block.html
+  bg: gray
+  type: pricingblock
+  section_id: ''
+  title: ''
+  subtitle: ''
+  pricingplans: []
 layout: pricing
 menu:
   main:
