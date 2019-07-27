@@ -1,0 +1,42 @@
+---
+label: Call to Action Section
+hide_body: true
+is_partial: true
+display_field: title
+fields:
+  - type: text
+    name: section_id
+    label: Element ID
+  - type: text
+    name: title
+    label: Title
+    description: The title of the section.
+  - type: text
+    name: component
+    label: Component
+    hidden: true
+    default: cta_block.html
+    config:
+      required: true
+  - type: text
+    name: subtitle
+    label: Subtitle
+    description: The subtitle of the section.
+  - type: field_group_list
+    name: actions
+    label: Action Buttons
+    config:
+      labelField: label
+    fields:
+      - type: include
+        name: include_action
+        label: Action
+        template: action
+  - type: text
+    name: type
+    label: Reference Type Name
+    description: 'Name of the Stackbit object model, used by fields of type reference'
+    hidden: true
+    default: ctablock
+    config:
+      required: true
