@@ -6,7 +6,7 @@ sections:
   section_id: hero
   title: Welcome to Node Waste
   component: hero_block.html
-  content: 'An iot zero waste '
+  content: An iot zero waste solution
   image: images/hero.png
   actions:
   - label: Learn More
