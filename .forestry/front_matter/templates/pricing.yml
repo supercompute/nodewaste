@@ -1,29 +1,28 @@
 ---
 label: Pricing
 hide_body: true
-is_partial: false
 fields:
-  - type: text
-    name: title
-    label: Title
-    description: The title of the page.
-    config:
-      required: true
-  - type: blocks
-    name: sections
-    label: Sections
-    description: Pricing page sections.
-    template_types:
-      - contentblock
-      - ctablock
-      - faqblock
-      - pricingblock
-  - type: text
-    name: layout
-    label: Layout
-    hidden: true
-    default: pricing
-    config:
-      required: true
+- type: text
+  name: title
+  label: Title
+  description: The title of the page.
+  config:
+    required: true
+- type: blocks
+  name: sections
+  label: Sections
+  description: Pricing page sections.
+  template_types:
+  - contentblock
+  - ctablock
+  - faqblock
+  - pricingblock
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: pricing
+  config:
+    required: true
 pages:
-  - pricing.md
+- pricing.md
