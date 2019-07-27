@@ -27,9 +27,8 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: Visualization
+    content: Have a real look at what the recycling economy looks like in your area
     image: images/feature2.png
     actions:
     - label: Learn More
