@@ -4,10 +4,9 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: This Is A Big Hero Headline
+  title: Welcome to Node Waste
   component: hero_block.html
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: 'An iot zero waste '
   image: images/hero.png
   actions:
   - label: Learn More
