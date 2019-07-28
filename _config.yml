@@ -12,8 +12,8 @@ header:
     - label: Sign Up
       url: "/signup"
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  logo_img: "/images/Asset 2@4x.png"
+  tagline: Nodewaste by Supercompute
   has_nav: true
   nav_title: Company
   has_social: true
