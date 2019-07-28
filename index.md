@@ -14,8 +14,7 @@ sections:
   section_id: features
   title: Features
   component: features_block.html
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: ''
   bg: gray
   featureslist:
   - title: Scalable
