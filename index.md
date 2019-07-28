@@ -20,7 +20,7 @@ sections:
     quis lorem malesuada luctus.
   bg: gray
   featureslist:
-  - title: ''
+  - title: Scalable
     content: ''
     image: ''
     actions: []
@@ -49,14 +49,13 @@ sections:
 - type: reviewsblock
   template: reviewsblock
   section_id: reviews
-  title: Testimonials
+  title: Partners
   component: reviews_block.html
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  subtitle: ''
   bg: white
   reviews:
-  - author: John Doe
-    avatar: images/review1.jpg
+  - author: Aragon
+    avatar: "/images/nodewaste b&w@2x.png"
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - author: Jane Roe
