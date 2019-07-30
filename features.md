@@ -12,7 +12,7 @@ sections:
     blockchain permits every user to verify independently what is going on in their
     network of participation.\n* Zero waste meaning great attention is placed in the
     sorting of material as to not complicate recovery process"
-  image: images/feature1.png
+  image: "/images/Asset 6@4x-1.png"
   bg: gray
   actions:
   - label: Free Trial
