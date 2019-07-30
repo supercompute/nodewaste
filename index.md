@@ -4,12 +4,9 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Recycling Is brokenit is time for something different
+  title: Recycling Is broken
   component: hero_block.html
-  content: |-
-    # **NODEWASTE**
-
-    ###### An iot zero waste solution
+  content: "#### it is time for something different"
   image: images/hero.png
   actions: []
 layout: home
