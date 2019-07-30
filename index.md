@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: 'Welcome to '
+  title: Recycling Is brokenit is time for something different
   component: hero_block.html
   content: |-
     # **NODEWASTE**
