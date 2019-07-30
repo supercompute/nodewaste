@@ -25,7 +25,7 @@ sections:
     - label: Order Now
       url: "/signup"
     highlight: false
-  - title: Medium
+  - title: AG All Glass
     price: "$49/m"
     details: |-
       * Curabitur non nunc mollis
