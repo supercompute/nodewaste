@@ -19,7 +19,7 @@ footer:
   has_subscribe: true
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
-  content: "&copy; Stackbit. All rights reserved."
+  content: "&copy; Nodewaste. All rights reserved."
   links:
   - new_window: true
 sass:
