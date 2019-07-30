@@ -8,9 +8,7 @@ header:
   logo_img: "/images/Asset 48@4x.png"
   has_nav: true
   menu:
-    actions:
-    - label: Sign Up
-      url: "/signup"
+    actions: []
 footer:
   logo_img: "/images/Asset 21@4x.png"
   tagline: Nodewaste by Supercompute
