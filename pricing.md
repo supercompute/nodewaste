@@ -14,7 +14,7 @@ sections:
     details: ''
     highlight: false
     actions: []
-  - title: HOME ZEROWASTE KIT
+  - title: 'Diversion food waste '
     price: "$5/m"
     details: |-
       * Absorbent Hygiene Products AHP
