@@ -9,11 +9,11 @@ sections:
   subtitle: unlimited sort bags pickups and drops
   bg: gray
   pricingplans:
-  - title: Small
+  - title: HOME ZEROWASTE KIT
     price: "$5/m"
     details: |-
-      * Lorem ipsum dolor sit amet
-      * Mauris a mi tincidunt
+      * Absorbent Hygiene Products AHP
+        * Diaper Service
       * Suspendisse ut lacus
       * Etiam eget dui a augue
     actions:
