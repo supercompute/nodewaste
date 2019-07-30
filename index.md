@@ -4,9 +4,12 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Welcome to NODEWASTE
+  title: 'Welcome to '
   component: hero_block.html
-  content: An iot zero waste solution
+  content: |-
+    # NODEWASTE
+
+    ##### An iot zero waste solution
   image: images/hero.png
   actions: []
 - type: featuresblock
