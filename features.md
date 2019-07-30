@@ -19,6 +19,14 @@ sections:
     url: "/signup"
   - label: View Demo
     url: "#"
+- template: featuresblock
+  component: features_block.html
+  bg: gray
+  type: featuresblock
+  section_id: ''
+  title: ''
+  subtitle: ''
+  featureslist: []
 layout: features
 menu:
   main:
