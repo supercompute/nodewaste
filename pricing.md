@@ -13,7 +13,9 @@ sections:
     price: '75.00'
     details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: 'included compost '
+      url: ''
   - title: 'Diversion food waste '
     price: "$5/m"
     details: |-
