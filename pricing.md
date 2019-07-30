@@ -3,12 +3,17 @@ title: Campaigns
 sections:
 - type: pricingblock
   template: pricingblock
-  section_id: pricing
-  title: Home Zero waste plan
+  section_id: Campaign
+  title: ''
   component: pricing_block.html
   subtitle: unlimited sort bags pickups and drops
   bg: gray
   pricingplans:
+  - title: Home Zero waste plan
+    price: '75.00'
+    details: ''
+    highlight: false
+    actions: []
   - title: HOME ZEROWASTE KIT
     price: "$5/m"
     details: |-
