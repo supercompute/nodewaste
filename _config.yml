@@ -12,7 +12,7 @@ header:
     - label: Sign Up
       url: "/signup"
 footer:
-  logo_img: "/images/Artboard 1xxhdpi.png"
+  logo_img: "/images/Asset 21@4x.png"
   tagline: Nodewaste by Supercompute
   has_nav: true
   nav_title: Company
