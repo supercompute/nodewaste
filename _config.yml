@@ -5,7 +5,7 @@ permalink: "/:title/"
 palette: blue
 header:
   title: Nodewaste
-  logo_img: "/images/Asset 44@4x.png"
+  logo_img: "/images/Asset 48@4x.png"
   has_nav: true
   menu:
     actions:
