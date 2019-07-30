@@ -7,9 +7,9 @@ sections:
   title: 'Welcome to '
   component: hero_block.html
   content: |-
-    # NODEWASTE
+    # **NODEWASTE**
 
-    ##### An iot zero waste solution
+    ###### An iot zero waste solution
   image: images/hero.png
   actions: []
 - type: featuresblock
