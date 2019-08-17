@@ -49,12 +49,12 @@ sections:
     match: '**/*.md'
     exclude: >-
       {_posts/**,README.md,LICENSE.md,index.md,pricing.md,features.md,blog/index.md,contact.md}
-    label: Pages
+    label: Page
     create: all
     templates:
       - page
   - type: jekyll-posts
-    label: Posts
+    label: Post
     create: all
     templates:
       - post

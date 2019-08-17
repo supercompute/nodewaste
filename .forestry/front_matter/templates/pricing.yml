@@ -25,5 +25,4 @@ fields:
     default: pricing
     config:
       required: true
-pages:
-  - pricing.md
+pages: []

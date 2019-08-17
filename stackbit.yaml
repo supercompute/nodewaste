@@ -1,5 +1,13 @@
 stackbitVersion: ~0.2.39
+ssgName: jekyll
+ssgVersion: 0.1.12
+buildCommand: ./ssg-build.sh
+publishDir: _site
+staticDir: ''
 uploadDir: images
+dataDir: _data
+pagesDir: ''
+pageLayoutKey: layout
 metadata:
   title: Azimuth
   description: A sleek SaaS theme
@@ -8,6 +16,11 @@ metadata:
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
+stackbit_banner:
+  show_banner: true
+  name: Azimuth
+  create_url: 'https://app.stackbit.com/create?theme=azimuth'
+  github_url: 'https://github.com/stackbithq/stackbit-theme-azimuth'
 models:
   config:
     type: config
@@ -213,6 +226,7 @@ models:
   home:
     type: page
     label: Home
+    template: home
     file: index.md
     hideContent: true
     singleInstance: true
@@ -242,10 +256,10 @@ models:
         name: menus
         label: Home Menus
         description: Which menus should this page show up in
-    layout: home
   pricing:
     type: page
     label: Pricing
+    template: pricing
     file: pricing.md
     hideContent: true
     singleInstance: true
@@ -271,10 +285,10 @@ models:
         name: menus
         label: Pricing Menus
         description: Which menus should this page show up in
-    layout: pricing
   features:
     type: page
     label: Features
+    template: features
     file: features.md
     hideContent: true
     singleInstance: true
@@ -299,10 +313,10 @@ models:
         name: menus
         label: Features Menus
         description: Which menus should this page show up in
-    layout: features
   blog:
     type: page
     label: Blog
+    template: blog
     file: blog/index.md
     hideContent: true
     singleInstance: true
@@ -316,10 +330,10 @@ models:
         name: menus
         label: Blog Menus
         description: Which menus should this page show up in
-    layout: blog
   contact:
     type: page
     label: Contact
+    template: contact
     file: contact.md
     singleInstance: true
     fields:
@@ -340,10 +354,10 @@ models:
         name: menus
         label: Contact Menus
         description: Which menus should this page show up in
-    layout: contact
   page:
     type: page
     label: Page
+    template: page
     exclude: _posts/**
     fields:
       - type: string
@@ -363,10 +377,10 @@ models:
         name: menus
         label: Page Menus
         description: Which menus should this page show up in
-    layout: page
   post:
     type: page
     label: Post
+    template: post
     folder: _posts
     fields:
       - type: string
@@ -398,7 +412,6 @@ models:
         name: menus
         label: Post Menus
         description: Which menus should this page show up in
-    layout: post
   section:
     type: object
     label: Section
@@ -761,18 +774,3 @@ models:
         description: >-
           The identifier of a menu item could be used as a parent menu of
           another menu item
-stackbit_banner:
-  show_banner: true
-  name: Azimuth
-  create_url: 'https://app.stackbit.com/wizard?theme=azimuth'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-azimuth'
-ssgName: jekyll
-publishDir: _site
-buildCommand: ./ssg-build.sh
-injectLocations:
-  htmlHead:
-    file: _layouts/base.html
-    tagName: head
-  htmlBody:
-    file: _layouts/base.html
-    tagName: body

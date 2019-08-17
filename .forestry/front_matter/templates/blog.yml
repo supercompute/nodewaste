@@ -16,5 +16,4 @@ fields:
     default: blog
     config:
       required: true
-pages:
-  - blog/index.md
+pages: []

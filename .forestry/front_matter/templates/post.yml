@@ -36,14 +36,4 @@ fields:
     default: post
     config:
       required: true
-pages:
-  - _posts/2017-03-26-2017-03-26-Azimuth-Improvements.md
-  - _posts/2018-01-09-2018-01-09-Design-Azimuth.md
-  - >-
-    _posts/2018-01-11-2018-01-11-Customer-Service-Skills-that-Every-Employee-Needs.md
-  - _posts/2018-01-15-2018-01-15-Sales-as-Service.md
-  - _posts/2019-03-10-2019-03-10-Set-Big-Goals.md
-  - _posts/2019-03-24-2019-03-24-Design-Team-Collaborates.md
-  - _posts/2019-03-27-2019-03-27-User-Journey-Mapping.md
-  - _posts/2019-04-22-2019-04-22-working-from-home.md
-  - _posts/2019-04-23-2019-04-23-Customer-Loyalty .md
+pages: []
