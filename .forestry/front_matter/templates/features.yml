@@ -23,5 +23,3 @@ fields:
   default: features
   config:
     required: true
-pages:
-- features.md
