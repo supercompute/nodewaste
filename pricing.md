@@ -9,6 +9,13 @@ sections:
   subtitle: unlimited sort bags pickups and drops
   bg: gray
   pricingplans:
+  - title: ''
+    price: ''
+    details: ''
+    highlight: false
+    actions:
+    - label: All food
+      url: Google.com
   - title: 'All plastic '
     price: '2000 NDW '
     details: ''
