@@ -9,6 +9,13 @@ sections:
   subtitle: unlimited sort bags pickups and drops
   bg: gray
   pricingplans:
+  - title: 'All plastic '
+    price: '2000 NDW '
+    details: ''
+    highlight: false
+    actions:
+    - label: All plastic
+      url: Google.com
   - title: Home Zero waste plan
     price: '75.00'
     details: ''
