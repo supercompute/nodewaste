@@ -9,8 +9,8 @@ sections:
   subtitle: unlimited sort bags pickups and drops
   bg: gray
   pricingplans:
-  - title: ''
-    price: ''
+  - title: All food
+    price: 2000 NDW
     details: ''
     highlight: false
     actions:
