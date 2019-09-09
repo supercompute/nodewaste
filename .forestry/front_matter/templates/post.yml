@@ -37,4 +37,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/a-real-post.md
+- _posts/2019-09-09-a-real-post.md
