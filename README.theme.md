@@ -1,3 +1,7 @@
+---
+title: Azimuth
+
+---
 # Azimuth
 
 A sleek SaaS theme for Stackbit. [Live Demo](https://themes.stackbit.com/demos/azimuth)
