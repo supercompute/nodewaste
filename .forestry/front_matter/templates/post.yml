@@ -36,6 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- _posts/2019-04-22-2019-04-22-working-from-home.md
-- _posts/2019-03-10-2019-03-10-Set-Big-Goals.md
