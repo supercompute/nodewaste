@@ -11,62 +11,18 @@ menu:
     weight: 4
 
 ---
-// Add source for admin-0 Boundaries
+<div class="card" style="width: 18rem;">
 
-  map.addSource('admin-0', {
+  <img class="card-img-top" src="..." alt="Card image cap">
 
-    type: 'vector',
+  <div class="card-body">
 
-    url: 'mapbox://mapbox.enterprise-boundaries-a0-v2'
+    <h5 class="card-title">Card title</h5>
 
-  });
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 
-  // Add a layer with boundary lines
+    <a href="#" class="btn btn-primary">Go somewhere</a>
 
-  map.addLayer({
+  </div>
 
-    id: 'admin-0-line',
-
-    type: 'line',
-
-    source: 'admin-0',
-
-    'source-layer': 'boundaries_admin_0',
-
-    paint: {
-
-      'line-color': 'red',
-
-      'line-width': \['interpolate', \['linear'\], \['zoom'\], 0, 2, 20, 10\]
-
-    }
-
-  }, 'waterway-label');
-
-  // Add a layer with points
-
-  map.addLayer({
-
-    id: 'admin-0-circle',
-
-    type: 'circle',
-
-    source: 'admin-0',
-
-    'source-layer': 'points_admin_0',
-
-    paint: {
-
-      'circle-color': 'white',
-
-      'circle-stroke-color': 'black',
-
-      'circle-stroke-width': \['interpolate', \['linear'\], \['zoom'\], 0, 2, 20, 6\],
-
-      'circle-radius': \['interpolate', \['linear'\], \['zoom'\], 0, 2, 20, 20\]
-
-    }
-
-  }, 'waterway-label');
-
-});
+</div>
