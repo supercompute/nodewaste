@@ -9,6 +9,13 @@ sections:
   subtitle: unlimited sort bags pickups and drops
   bg: gray
   pricingplans:
+  - title: Home Zero waste plan
+    price: '75.00'
+    details: ''
+    highlight: false
+    actions:
+    - label: 'included compost '
+      url: ''
   - title: All food
     price: 2000 NDW
     details: ''
@@ -23,13 +30,6 @@ sections:
     actions:
     - label: All plastic
       url: Google.com
-  - title: Home Zero waste plan
-    price: '75.00'
-    details: ''
-    highlight: false
-    actions:
-    - label: 'included compost '
-      url: ''
   - title: 'Diversion food waste '
     price: "$5/m"
     details: |-
@@ -53,17 +53,6 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
-  - title: Enterprise
-    price: "$149/m"
-    details: |-
-      * Vestibulum non eros quis
-      * Aenean iaculis lorem
-      * Mauris eleifend sapien
-      * Phasellus lobortis risus
-    actions:
-    - label: Order Now
-      url: "/signup"
-    highlight: false
 layout: pricing
 menu:
   main:
