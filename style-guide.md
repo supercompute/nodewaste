@@ -1,5 +1,5 @@
 ---
-title: Comming Soon
+title: Coming Soon
 subtitle: Nodewaste Proof of concept.
 layout: page
 img_path: ''
