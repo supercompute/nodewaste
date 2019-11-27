@@ -11,10 +11,10 @@ fields:
   fields:
   - type: text
     name: type
-    label: type
+    label: Search
   - type: text
     name: template
-    label: template
+    label: Mapbox
   - type: text
     name: section_id
     label: section_id
