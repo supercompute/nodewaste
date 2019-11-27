@@ -1,0 +1,61 @@
+---
+label: Mapbox
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: sections
+  label: sections
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: text
+    name: template
+    label: template
+  - type: text
+    name: section_id
+    label: section_id
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: component
+    label: component
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: text
+    name: bg
+    label: bg
+  - type: field_group_list
+    name: pricingplans
+    label: pricingplans
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: price
+      label: price
+    - type: text
+      name: details
+      label: details
+    - type: boolean
+      name: highlight
+      label: highlight
+    - type: field_group_list
+      name: actions
+      label: actions
+      fields:
+      - type: text
+        name: label
+        label: label
+      - type: text
+        name: url
+        label: url
+- type: text
+  name: layout
+  label: layout
