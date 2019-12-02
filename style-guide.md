@@ -6,7 +6,7 @@ img_path: ''
 menu:
   main:
     title: Coverage Map
-    weight: 4
+    weight: 2
 
 ---
     

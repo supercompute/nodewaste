@@ -54,8 +54,5 @@ sections:
     - label: Order Now
       url: "/signup"
 layout: pricing
-menu:
-  main:
-    weight: 3
 
 ---
