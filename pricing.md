@@ -16,7 +16,7 @@ sections:
     actions:
     - label: 'included compost '
       url: ''
-  - title: All food
+  - title: 'All Compostables '
     price: 2000 NDW
     details: ''
     highlight: false
