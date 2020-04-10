@@ -8,3 +8,4 @@ menu:
     weight: 1
 
 ---
+Nodewaste is a humble idea created at the intersection of Clear present Need and Technological ability.
