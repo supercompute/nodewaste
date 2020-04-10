@@ -9,6 +9,11 @@ sections:
   subtitle: unlimited sort bags pickups and drops
   bg: gray
   pricingplans:
+  - title: Absorbent Hygiene Products
+    price: ''
+    details: ''
+    highlight: false
+    actions: []
   - title: Home Zero waste plan
     price: '75.00'
     details: ''
@@ -30,17 +35,6 @@ sections:
     actions:
     - label: All plastic
       url: Google.com
-  - title: 'Diversion food waste '
-    price: "$5/m"
-    details: |-
-      * Absorbent Hygiene Products AHP
-        * Diaper Service
-      * Suspendisse ut lacus
-      * Etiam eget dui a augue
-    actions:
-    - label: Order Now
-      url: "/signup"
-    highlight: false
   - title: All Glass
     price: "$49/m"
     details: |-
@@ -53,6 +47,17 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
+  - title: 'Diversion food waste '
+    price: "$5/m"
+    details: |-
+      * Absorbent Hygiene Products AHP
+        * Diaper Service
+      * Suspendisse ut lacus
+      * Etiam eget dui a augue
+    actions:
+    - label: Order Now
+      url: "/signup"
+    highlight: false
 layout: pricing
 
 ---
