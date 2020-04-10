@@ -7,7 +7,7 @@ sections:
   title: Recycling Is broken
   component: hero_block.html
   content: "#### it is time for something different"
-  image: "/images/feature2.png"
+  image: "/images/Asset 90@3x.png"
   actions: []
 layout: home
 menu:
