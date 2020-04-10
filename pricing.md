@@ -9,6 +9,11 @@ sections:
   subtitle: unlimited sort bags pickups and drops
   bg: gray
   pricingplans:
+  - title: Med Bags
+    price: ''
+    details: ''
+    highlight: false
+    actions: []
   - title: Absorbent Hygiene Products
     price: ''
     details: ''
@@ -49,11 +54,7 @@ sections:
       url: "/signup"
   - title: 'Diversion food waste '
     price: "$5/m"
-    details: |-
-      * Absorbent Hygiene Products AHP
-        * Diaper Service
-      * Suspendisse ut lacus
-      * Etiam eget dui a augue
+    details: ''
     actions:
     - label: Order Now
       url: "/signup"
