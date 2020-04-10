@@ -28,7 +28,7 @@ sections:
     actions:
     - label: All food
       url: Google.com
-  - title: 'All plastic '
+  - title: All Plastics
     price: '2000 NDW '
     details: ''
     highlight: false
