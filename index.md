@@ -10,6 +10,18 @@ sections:
     by reducing contamination and sorting completely at home.
   image: "/images/Asset 1@4x.png"
   actions: []
+- template: featuresblock
+  component: features_block.html
+  bg: gray
+  type: featuresblock
+  title: Nodewaste utilizes several cutting edge technologies.
+  featureslist:
+  - title: Ethereum
+    content: test test test
+    image: ''
+    actions: []
+  section_id: ''
+  subtitle: ''
 layout: home
 menu:
   main:
