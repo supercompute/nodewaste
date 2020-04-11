@@ -8,8 +8,7 @@ header:
   logo_img: "/images/Asset 26@4x.png"
   has_nav: true
   menu:
-    actions:
-    - label: NODEWASTE
+    actions: []
 footer:
   logo_img: "/images/Asset 21@4x.png"
   tagline: Nodewaste
