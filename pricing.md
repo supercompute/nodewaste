@@ -15,6 +15,8 @@ sections:
     details: ''
     highlight: false
     actions:
+    - label: Absorbent Hygiene Products
+      url: ''
     - label: All glass
       url: ''
     - label: All plastic
