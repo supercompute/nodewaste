@@ -17,7 +17,7 @@ sections:
     actions:
     - label: All Glass
       url: ''
-    - label: All plastic
+    - label: All Plastic
       url: ''
     - label: 'All Compost '
       url: ''
