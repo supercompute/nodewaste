@@ -53,6 +53,21 @@ sections:
     - label: Order Now
       url: "/signup"
     highlight: false
+- template: pricingblock
+  component: pricing_block.html
+  bg: gray
+  type: pricingblock
+  title: 'Campaign: Business'
+  pricingplans:
+  - price: ''
+    details: ''
+    highlight: false
+    actions:
+    - label: 'Restaurant '
+      url: ''
+    title: Restaurant
+  section_id: ''
+  subtitle: ''
 layout: pricing
 
 ---
