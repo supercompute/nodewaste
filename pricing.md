@@ -75,5 +75,9 @@ sections:
   section_id: ''
   subtitle: ''
 layout: pricing
+menu:
+  main:
+    weight: 3
+    title: Campaigns
 
 ---
