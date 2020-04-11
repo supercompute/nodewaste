@@ -21,7 +21,7 @@ sections:
     image: ''
     actions:
     - label: ChainLink
-      url: ''
+      url: http://smartcontract.com/
     - label: Streamr
       url: ''
     - label: Foamspace
