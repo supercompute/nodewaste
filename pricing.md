@@ -15,13 +15,13 @@ sections:
     details: ''
     highlight: false
     actions:
-    - label: Absorbent Hygiene Products
-      url: ''
     - label: All glass
       url: ''
     - label: All plastic
       url: ''
     - label: 'All Compost '
+      url: ''
+    - label: Absorbent Hygiene Products
       url: ''
   - title: Med Bags
     price: ''
