@@ -19,7 +19,7 @@ sections:
       url: ''
     - label: All plastic
       url: ''
-    - label: 'included compost '
+    - label: 'All Compost '
       url: ''
   - title: Med Bags
     price: ''
