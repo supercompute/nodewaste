@@ -23,7 +23,7 @@ sections:
       url: ''
     - label: Absorbent Hygiene Products
       url: ''
-  - title: AHP
+  - title: All AHP
     price: ''
     details: Absorbent Hygiene Products
     highlight: false
