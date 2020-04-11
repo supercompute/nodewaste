@@ -23,14 +23,9 @@ sections:
       url: ''
     - label: Absorbent Hygiene Products
       url: ''
-  - title: Med Bags
+  - title: AHP
     price: ''
-    details: ''
-    highlight: false
-    actions: []
-  - title: Absorbent Hygiene Products
-    price: ''
-    details: ''
+    details: Absorbent Hygiene Products
     highlight: false
     actions: []
   - title: All Plastics
