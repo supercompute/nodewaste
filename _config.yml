@@ -11,7 +11,7 @@ header:
     actions: []
 footer:
   logo_img: "/images/Asset 21@4x.png"
-  tagline: Nodewaste by Supercompute
+  tagline: Nodewaste
   has_nav: true
   nav_title: Company
   has_social: true
