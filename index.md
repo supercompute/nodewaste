@@ -23,9 +23,9 @@ sections:
     - label: ChainLink
       url: http://smartcontract.com/
     - label: Streamr
-      url: ''
+      url: https://streamr.network/
     - label: Foamspace
-      url: ''
+      url: https://foam.space/
     - label: LTO
       url: ''
   section_id: ''
