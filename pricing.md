@@ -52,8 +52,8 @@ sections:
     actions:
     - label: Order Now
       url: "/signup"
-  - title: 'Diversion food waste '
-    price: "$5/m"
+  - title: All Compost
+    price: ''
     details: ''
     actions:
     - label: Order Now
