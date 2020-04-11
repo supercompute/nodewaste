@@ -29,7 +29,7 @@ sections:
     - label: LTO
       url: https://ltonetwork.com/
   section_id: ''
-  subtitle: utilizes several cutting edge technologies.
+  subtitle: Utilizes several cutting edge technologies.
 layout: home
 menu:
   main:
