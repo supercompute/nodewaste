@@ -37,12 +37,7 @@ sections:
       url: Google.com
   - title: All Glass
     price: ''
-    details: |-
-      * Curabitur non nunc mollis
-      * Duis a purus nec ligula
-      * Pellentesque sit amet
-      * Fusce tempus mi vitae
-      * Nullam sollicitudin ante
+    details: ''
     highlight: true
     actions:
     - label: Order Now
