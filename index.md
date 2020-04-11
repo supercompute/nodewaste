@@ -4,9 +4,9 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Recycling Is broken
+  title: 'Zero waste for All '
   component: hero_block.html
-  content: "#### it is time for something different"
+  content: "#### The time has come for zero waste to grow up. "
   image: "/images/Asset 1@4x.png"
   actions: []
 layout: home
