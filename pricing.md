@@ -1,5 +1,5 @@
 ---
-title: Campaigns
+title: 'Campaign: Pricing'
 sections:
 - type: pricingblock
   template: pricingblock
