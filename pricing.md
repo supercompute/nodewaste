@@ -10,6 +10,15 @@ sections:
     needs
   bg: gray
   pricingplans:
+  - title: 'Home: Zerowaste plan'
+    price: ''
+    details: ''
+    highlight: false
+    actions:
+    - label: All plastic
+      url: ''
+    - label: 'included compost '
+      url: ''
   - title: Med Bags
     price: ''
     details: ''
@@ -20,13 +29,6 @@ sections:
     details: ''
     highlight: false
     actions: []
-  - title: Home Zero waste plan
-    price: '75.00'
-    details: ''
-    highlight: false
-    actions:
-    - label: 'included compost '
-      url: ''
   - title: All Plastics
     price: '2000 NDW '
     details: ''
