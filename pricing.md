@@ -60,7 +60,8 @@ sections:
   title: 'Campaign: Business'
   pricingplans:
   - price: ''
-    details: ''
+    details: Nodewaste offers restaurants a real time solution to incentivise zero
+      waste.
     highlight: false
     actions:
     - label: 'Restaurant '
