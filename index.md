@@ -14,7 +14,7 @@ sections:
   component: features_block.html
   bg: gray
   type: featuresblock
-  title: Nodewaste utilizes several cutting edge technologies.
+  title: 'Nodewaste '
   featureslist:
   - title: Ethereum
     content: test test test
@@ -29,7 +29,7 @@ sections:
     - label: LTO
       url: https://ltonetwork.com/
   section_id: ''
-  subtitle: ''
+  subtitle: utilizes several cutting edge technologies.
 layout: home
 menu:
   main:
