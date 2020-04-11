@@ -26,13 +26,6 @@ sections:
     actions:
     - label: 'included compost '
       url: ''
-  - title: 'All Compostables '
-    price: 2000 NDW
-    details: ''
-    highlight: false
-    actions:
-    - label: All food
-      url: Google.com
   - title: All Plastics
     price: '2000 NDW '
     details: ''
