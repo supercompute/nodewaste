@@ -36,7 +36,7 @@ sections:
     - label: All plastic
       url: Google.com
   - title: All Glass
-    price: "$49/m"
+    price: ''
     details: |-
       * Curabitur non nunc mollis
       * Duis a purus nec ligula
