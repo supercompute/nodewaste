@@ -10,7 +10,7 @@ sections:
     by reducing contamination and sorting completely at home.
   image: "/images/Asset 1@4x.png"
   actions:
-  - label: How doe Nodewaste work
+  - label: How does Nodewaste work
     url: https://docs.google.com/presentation/d/1gGw3mkzMM9f5zaI68uLgr1J_D-i_ZKg2ZcrCfE2DXbY/edit?usp=sharing
 layout: home
 menu:
