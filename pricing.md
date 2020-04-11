@@ -15,7 +15,7 @@ sections:
     details: ''
     highlight: false
     actions:
-    - label: All glass
+    - label: All Glass
       url: ''
     - label: All plastic
       url: ''
