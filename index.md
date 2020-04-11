@@ -16,7 +16,7 @@ sections:
   type: featuresblock
   title: Nodewaste utilizes several cutting edge technologies.
   featureslist:
-  - title: Ethereum Technologies
+  - title: Ethereum
     content: test test test
     image: ''
     actions:
