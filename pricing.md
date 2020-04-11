@@ -39,9 +39,7 @@ sections:
     price: ''
     details: ''
     highlight: true
-    actions:
-    - label: Order Now
-      url: "/signup"
+    actions: []
   - title: All Compost
     price: ''
     details: ''
