@@ -29,7 +29,7 @@ sections:
     highlight: false
     actions: []
   - title: All Plastics
-    price: '2000 NDW '
+    price: ''
     details: ''
     highlight: false
     actions:
