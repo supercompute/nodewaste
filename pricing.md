@@ -15,6 +15,8 @@ sections:
     details: ''
     highlight: false
     actions:
+    - label: All glass
+      url: ''
     - label: All plastic
       url: ''
     - label: 'included compost '
