@@ -36,5 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- _posts/pitch-deck.md
