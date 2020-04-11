@@ -3,8 +3,8 @@ title: Campaigns
 sections:
 - type: pricingblock
   template: pricingblock
-  section_id: Campaign
-  title: ''
+  section_id: 'Campaign: Consumer'
+  title: Nodewaste offers an extensive consumer zero waste program for all your needs
   component: pricing_block.html
   subtitle: unlimited sort bags pickups and drops
   bg: gray
