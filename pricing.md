@@ -21,7 +21,7 @@ sections:
       url: ''
     - label: 'All Compost '
       url: ''
-    - label: Absorbent Hygiene Products
+    - label: All AHP
       url: ''
   - title: All AHP
     price: ''
