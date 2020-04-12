@@ -17,7 +17,8 @@ sections:
   title: 'Nodewaste '
   featureslist:
   - title: Ethereum
-    content: test test test
+    content: A open source smart contracting service enabling IOT network solutions
+      at scale.
     image: ''
     actions:
     - label: ChainLink
