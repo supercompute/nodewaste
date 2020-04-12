@@ -23,11 +23,13 @@ sections:
       url: ''
     - label: 'All Compost '
       url: ''
-  - title: All AHP
+  - title: à la carte
     price: ''
-    details: Absorbent Hygiene Products
+    details: ''
     highlight: false
-    actions: []
+    actions:
+    - label: AHP
+      url: ''
   - title: All Plastics
     price: ''
     details: ''
