@@ -15,13 +15,13 @@ sections:
     details: ''
     highlight: false
     actions:
+    - label: All AHP
+      url: ''
     - label: All Glass
       url: ''
     - label: All Plastic
       url: ''
     - label: 'All Compost '
-      url: ''
-    - label: All AHP
       url: ''
   - title: All AHP
     price: ''
