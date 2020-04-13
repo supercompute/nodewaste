@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Nodewaste
+  title: NODEWASTE
   component: hero_block.html
   content: "Zero waste for all   \n  \nNodewaste is the scaling solution needed to
     bring zero waste to the masses by reducing contamination and sorting completely
