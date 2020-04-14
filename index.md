@@ -30,7 +30,7 @@ sections:
       url: https://foam.space/
     - label: LTO
       url: https://ltonetwork.com/
-  section_id: ''
+  section_id: Ethereum Features
   subtitle: Utilizes several cutting edge technologies.
 layout: home
 menu:
