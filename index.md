@@ -44,7 +44,9 @@ sections:
     content: "Every node of Nodewaste \n\nis a uncontaminated presorted supply chain
       OUT of Landfills."
     image: ''
-    actions: []
+    actions:
+    - label: Visualizer
+      url: ''
 layout: home
 menu:
   main:
