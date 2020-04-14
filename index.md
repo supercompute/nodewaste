@@ -45,6 +45,16 @@ sections:
       OUT of Landfills."
     image: ''
     actions:
+    - label: Independent Verification
+      url: ''
+    - label: Long term Storage
+      url: ''
+    - label: Custom Bins
+      url: ''
+    - label: Reward program
+      url: ''
+    - label: 'Network Visualizer '
+      url: ''
     - label: Visualizer
       url: ''
 layout: home
