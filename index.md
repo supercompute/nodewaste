@@ -32,6 +32,19 @@ sections:
       url: https://ltonetwork.com/
   section_id: Ethereum Features
   subtitle: Utilizes several cutting edge technologies.
+- template: featuresblock
+  component: features_block.html
+  bg: gray
+  type: featuresblock
+  section_id: features
+  title: Features
+  subtitle: what does Nodewaste resolve
+  featureslist:
+  - title: Subscription Model
+    content: "Every node of Nodewaste \n\nis a uncontaminated presorted supply chain
+      OUT of Landfills."
+    image: ''
+    actions: []
 layout: home
 menu:
   main:
