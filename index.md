@@ -45,9 +45,7 @@ sections:
       OUT of Landfills."
     image: "/images/Asset 5@4x (1).png"
     actions:
-    - label: Independent Verification
-      url: ''
-    - label: Long term Storage
+    - label: Visualizer
       url: ''
     - label: Custom Bins
       url: ''
@@ -55,7 +53,9 @@ sections:
       url: ''
     - label: 'Network Visualizer '
       url: ''
-    - label: Visualizer
+    - label: Long term Storage
+      url: ''
+    - label: Independent Verification
       url: ''
 layout: home
 menu:
