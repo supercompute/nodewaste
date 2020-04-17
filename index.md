@@ -43,7 +43,7 @@ sections:
   - title: Subscription Model
     content: "Every node of Nodewaste \n\nis a uncontaminated presorted supply chain
       OUT of Landfills."
-    image: ''
+    image: "/images/Asset 5@4x (1).png"
     actions:
     - label: Independent Verification
       url: ''
