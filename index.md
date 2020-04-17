@@ -40,7 +40,7 @@ sections:
   title: Features
   subtitle: what does Nodewaste resolve
   featureslist:
-  - title: Subscription Model
+  - title: 'Presort At home: Subscription Model'
     content: "Every node of Nodewaste \n\nis a uncontaminated presorted supply chain
       OUT of Landfills."
     image: "/images/Asset 5@4x (1).png"
