@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Visualizer
-subtitle: Know exactly where your repurposed material goes and see what it becomes
-  on the other end
+subtitle: See the network work for you
 img_path: "/images/Asset 107@2x.png"
 
 ---
