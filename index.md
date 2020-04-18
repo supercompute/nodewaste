@@ -45,8 +45,6 @@ sections:
       OUT of Landfills."
     image: "/images/Asset 5@4x (1).png"
     actions:
-    - label: Visualizer
-      url: ''
     - label: Custom Bins
       url: ''
     - label: Reward program
