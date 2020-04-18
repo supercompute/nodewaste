@@ -41,8 +41,11 @@ sections:
   subtitle: what does Nodewaste resolve
   featureslist:
   - title: 'Presort At home: Subscription Model'
-    content: "Every node of Nodewaste \n\nis a uncontaminated presorted supply chain
-      OUT of Landfills."
+    content: "Every _node_ of Nodewaste\n\nTurns every home or business in to a presort
+      facility exporting a very particular kind of raw material. These raw materials
+      are processed at site specific facilities  to raw material that will be reused
+      and not contaminated and sent to landfils.   \n  \nthese presorted goods are
+      sent to direct processing plant for cleaning and "
     image: "/images/Asset 5@4x (1).png"
     actions:
     - label: Custom Bins
