@@ -1,5 +1,5 @@
 ---
-title: Coming Soon
+title: Nodewaste Hack
 subtitle: Nodewaste Proof of concept
 layout: page
 img_path: ''
