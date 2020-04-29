@@ -1,5 +1,11 @@
 {
   "name": "info",
   "email": "info@nodewaste.com",
-  "avatar": "/images/Asset 26@4x.png"
+  "avatar": "/images/Asset 26@4x.png",
+  "menu": {
+    "main": {
+      "weight": 5,
+      "title": "Profile"
+    }
+  }
 }
