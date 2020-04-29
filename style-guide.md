@@ -1,5 +1,5 @@
 ---
-title: style-guide
+title: POC
 subtitle: Nodewaste Proof of concept
 layout: page
 img_path: ''
